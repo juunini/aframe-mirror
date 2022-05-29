@@ -264,8 +264,6 @@ AFRAME.registerComponent('mirror', {
     const textureWidth = this.data.textureWidth || DEFAULT_TEXTURE_WIDTH;
     const textureHeight = this.data.textureHeight || DEFAULT_TEXTURE_HEIGHT;
 
-    console.log(color, textureWidth, textureHeight);
-
     const reflector = new Reflector(
       this.el.components.geometry.geometry,
       {
