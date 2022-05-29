@@ -1,0 +1,14 @@
+{
+  "name": "aframe-mirror",
+  "version": "0.0.1",
+  "description": "A-Frame mirror component",
+  "author": "juunini",
+  "license": "MIT",
+  "repository": "https://github.com/juunini/aframe-mirror",
+  "homepage": "https://github.com/juunini/aframe-mirror",
+  "keywords": [
+    "aframe",
+    "mirror",
+    "reflector"
+  ]
+}
